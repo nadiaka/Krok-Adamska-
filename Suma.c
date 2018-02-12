@@ -10,5 +10,6 @@ int main() {
    int suma;
    // SUMA
    suma = x+y;
+   // WYPISZ
    printf("%d + %d = %d", x, y, suma);
 }
