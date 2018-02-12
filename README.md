@@ -1,1 +1,4 @@
-# Krok-Adamska-
+# Krok-Adamska
+
+
+zadanie - Git
